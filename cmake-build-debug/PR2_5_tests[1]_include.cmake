@@ -1,0 +1,5 @@
+if(EXISTS "/Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_5/cmake-build-debug/PR2_5_tests[1]_tests.cmake")
+  include("/Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_5/cmake-build-debug/PR2_5_tests[1]_tests.cmake")
+else()
+  add_test(PR2_5_tests_NOT_BUILT PR2_5_tests_NOT_BUILT)
+endif()

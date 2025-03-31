@@ -1,0 +1,30 @@
+Start testing: Mar 31 23:03 EEST
+----------------------------------------------------------
+1/1 Testing: Tests.TriangleTest
+1/1 Test: Tests.TriangleTest
+Command: "/Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_5/cmake-build-debug/PR2_5_tests" "--gtest_filter=Tests.TriangleTest" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_5/cmake-build-debug
+"Tests.TriangleTest" start time: Mar 31 23:03 EEST
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_5/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = Tests.TriangleTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Tests
+[ RUN      ] Tests.TriangleTest
+[       OK ] Tests.TriangleTest (0 ms)
+[----------] 1 test from Tests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Tests.TriangleTest" end time: Mar 31 23:03 EEST
+"Tests.TriangleTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 31 23:03 EEST
